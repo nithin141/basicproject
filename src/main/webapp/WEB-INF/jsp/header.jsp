@@ -18,6 +18,7 @@
    
     <ul class="nav navbar-nav">
       <li class="active"><a href="index">Home</a></li>
+       <li class="active"><a href="index">Nithin</a></li>
     </ul>
   </div>
 </nav>
